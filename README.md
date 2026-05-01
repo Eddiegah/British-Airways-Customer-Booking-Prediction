@@ -15,7 +15,7 @@ British Airways receives thousands of booking inquiries daily, but only a fracti
 2. **Train a Random Forest Classifier** to predict booking completion.
 3. **Extract Actionable Insights** to help the marketing team target potential travelers more effectively.
    
-   (<img width="2951" height="2351" alt="feature_importance" src="https://github.com/user-attachments/assets/52280c7d-bb21-4533-887b-a5653f99bb60" />
+   <img width="2951" height="2351" alt="feature_importance" src="https://github.com/user-attachments/assets/52280c7d-bb21-4533-887b-a5653f99bb60" />
 
 
 ## 📊 Key Findings & Results
