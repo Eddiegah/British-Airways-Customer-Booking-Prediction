@@ -14,12 +14,12 @@ British Airways receives thousands of booking inquiries daily, but only a fracti
 1. **Explore & Clean** a complex dataset of customer travel patterns.
 2. **Train a Random Forest Classifier** to predict booking completion.
 3. **Extract Actionable Insights** to help the marketing team target potential travelers more effectively.
-   ![Feature Importance]
+   
    (<img width="2951" height="2351" alt="feature_importance" src="https://github.com/user-attachments/assets/52280c7d-bb21-4533-887b-a5653f99bb60" />
 
 
 ## 📊 Key Findings & Results
-* **Model Performance:** Achieved an accuracy of **[Insert your accuracy here, e.g., 85%]**.
+* **Model Performance:** Achieved an accuracy of 84.23%
 * **Top Predictor: Purchase Lead.** The analysis revealed that the "Early Bird" factor is the strongest indicator of booking success—the further in advance a customer searches, the more likely they are to commit.
 * **Secondary Drivers:** Flight hour and length of stay were significant contributors to the model's decision-making process.
 
